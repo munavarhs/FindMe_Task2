@@ -1,4 +1,4 @@
-__Flask-Based RESTful API for Product Management__
+__Backend and API Developmet with Python__
 
 __Project Overview__
 
