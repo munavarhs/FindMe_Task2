@@ -29,10 +29,10 @@ __Endpoints:__
     URL: /products
     Response: Returns a list of all products.
 3. Get a Product by ID (GET):
-    URL: /products/<id>
+    URL: /products/product-id
     Response: Returns the product details for the specified ID.
 4. Update a Product (PUT):
-    URL: /products/<id>
+    URL: /products/product-id
     Request Body:
    {
     "name": "Updated Product Name",
@@ -40,7 +40,7 @@ __Endpoints:__
     "description": "Updated description"
    }
 5. Delete a Product (DELETE):
-    URL: /products/<id>
+    URL: /products/product-id
     Response: Confirms the deletion of the product.
 
 __Technology Stack - Used:__
