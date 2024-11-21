@@ -43,14 +43,14 @@ __Endpoints:__
     URL: /products/<id>
     Response: Confirms the deletion of the product.
 
-   __Technology Stack - Used:__
+__Technology Stack - Used:__
    
     Backend Framework: Flask
     Language: Python
     Data Storage: In-memory (Python list)
     Concurrency Management: Thread-safe operations using Lock.
 
-   __How to run the main python file(app.py)__
+__How to run the main python file(app.py)__
 
      1. Install Flask: pip install flask
      2. Run the application: python app.py
