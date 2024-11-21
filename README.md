@@ -10,9 +10,9 @@ __CRUD Operations:__
 **Read:** Retrieve all products or a specific product by its ID.
 **Update:** Modify product details, including name, price, and description.
 **Delete:** Remove products by ID.
-Concurrent Request Handling: Ensures API responsiveness and thread safety using locks.
-Error Handling: Returns descriptive error messages with appropriate HTTP status codes for invalid inputs or missing resources.
-RESTful Design: Clear and consistent API design with proper request/response formats.
+**Concurrent Request Handling:** Ensures API responsiveness and thread safety using locks.
+**Error Handling:** Returns descriptive error messages with appropriate HTTP status codes for invalid inputs or missing resources.
+**RESTful Design:** Clear and consistent API design with proper request/response formats.
 
 __Endpoints:__
 
